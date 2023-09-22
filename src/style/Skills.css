@@ -1,0 +1,46 @@
+.custom-skills {
+  margin-top: 150px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 4px;
+  margin-bottom: 60px;
+  font-size: 2.5rem;
+  position: relative;
+}
+
+.card:hover {
+  background-color: rgb(163, 163, 255);
+}
+
+.custom-img {
+  height: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.custom-img-html {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  height: 130px;
+  width: 7rem;
+}
+
+.custom-img-css {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: 150px;
+  width: 11rem;
+}
+
+.custom-img-sql {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  height: 150px;
+  width: 14rem;
+}
+
+.custom-img-react {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  height: 150px;
+  width: 14rem;
+}

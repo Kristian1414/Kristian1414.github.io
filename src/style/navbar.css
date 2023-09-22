@@ -1,0 +1,16 @@
+.navbar {
+  background-color: #757a89;
+}
+
+.nav-item .custom-text-color {
+  color: #ffffff;
+}
+
+/* Tautan yang sudah diklik */
+.nav-item .custom-text-color:visited {
+  color: #ffffff; /* Warna yang diinginkan saat tautan diklik */
+}
+
+.nav-item .custom-text-color:hover {
+  color: #00ff1a;
+}

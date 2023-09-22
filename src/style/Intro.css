@@ -1,0 +1,124 @@
+@media screen and (max-width: 576px) {
+  .custom-position-text {
+    font-size: 3rem;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .custom {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .intro-custom {
+    margin-top: 90px;
+  }
+
+  .intro-custom-2 {
+    margin-top: 30px;
+    margin-bottom: 70px;
+  }
+}
+
+@media screen and (min-width: 577px) and (max-width: 767px) {
+  .custom-position-text {
+    font-size: 3rem;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .custom {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .intro-custom {
+    margin-top: 90px;
+  }
+
+  .intro-custom-2 {
+    margin-top: 30px;
+    margin-bottom: 70px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .custom-position-text {
+    font-size: 4rem;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .custom {
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .intro-custom {
+    margin-top: 90px;
+  }
+
+  .intro-custom-2 {
+    margin-top: 30px;
+    margin-bottom: 70px;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .custom-position-text {
+    font-size: 4rem;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .custom {
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .intro-custom {
+    margin-top: 90px;
+  }
+
+  .intro-custom-2 {
+    margin-top: 30px;
+    margin-bottom: 70px;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+  .custom-position-text {
+    font-size: 4rem;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .custom {
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .intro-custom {
+    margin-top: 90px;
+  }
+
+  .intro-custom-2 {
+    margin-top: 30px;
+    margin-bottom: 70px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .custom-position-text {
+    font-size: 5rem;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .custom {
+    font-size: x-large;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .intro-custom {
+    margin-top: 120px;
+  }
+
+  .intro-custom-2 {
+    margin-top: 60px;
+    margin-bottom: 100px;
+  }
+}

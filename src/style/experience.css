@@ -1,0 +1,54 @@
+.custom-container-experience {
+  height: 100vh;
+  background-color: #757a89;
+  margin-top: 150px;
+}
+
+.custom-experience-text {
+  font-size: 2.5rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 4px;
+  margin-bottom: 80px;
+}
+
+.custom-years-left {
+  margin-right: 110px;
+  color: #01ff1f;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.custom-edu-left {
+  margin-right: 110px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.custom-jurusan-left {
+  margin-top: 20px;
+  margin-right: 110px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.custom-penjelasan-left {
+  margin-right: 110px;
+}
+
+.custom-years-right {
+  margin-left: 110px;
+  color: #01ff1f;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.custom-edu-right {
+  margin-left: 110px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.custom-jurusan-right {
+  margin-top: 20px;
+  margin-left: 110px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.custom-penjelasan-right {
+  margin-left: 110px;
+}

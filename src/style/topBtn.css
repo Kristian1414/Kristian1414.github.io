@@ -1,0 +1,51 @@
+@media screen and (max-width: 767px) {
+  .top-Btn {
+    width: 60px;
+    height: 60px;
+    right: 40px;
+    bottom: 40px;
+    z-index: 1;
+    background-color: #4d5361;
+    position: fixed;
+    cursor: pointer;
+  }
+
+  .arr-style {
+    font-size: 35px;
+    color: #01ff1f;
+  }
+
+  .top-Btn:hover {
+    background-color: #01ff1f;
+  }
+
+  .top-Btn:hover .arr-style {
+    color: #4d5361;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .top-Btn {
+    width: 60px;
+    height: 60px;
+    right: 50px;
+    bottom: 50px;
+    z-index: 1;
+    background-color: #4d5361;
+    position: fixed;
+    cursor: pointer;
+  }
+
+  .arr-style {
+    font-size: 35px;
+    color: #01ff1f;
+  }
+
+  .top-Btn:hover {
+    background-color: #01ff1f;
+  }
+
+  .top-Btn:hover .arr-style {
+    color: #4d5361;
+  }
+}
