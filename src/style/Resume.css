@@ -1,4 +1,29 @@
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 480px) {
+  .resume {
+    background-color: #323744;
+    font-size: 0.8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(208, 207, 207);
+    width: 85%;
+    height: "auto";
+    margin-top: 30px;
+    padding: 40px;
+  }
+
+  .resume .btn-custom {
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin-top: 40px;
+    font-size: 1rem;
+  }
+
+  .resume .btn-custom:hover {
+    background-color: #01ff1f;
+    color: rgb(0, 0, 0);
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 576px) {
   .resume {
     background-color: #323744;
     font-size: 1rem;
@@ -32,7 +57,7 @@
     width: 75%;
     height: "auto";
     margin-top: 30px;
-    padding: 50px;
+    padding: 40px;
   }
 
   .resume .btn-custom {
@@ -50,10 +75,10 @@
 @media screen and (min-width: 768px) and (max-width: 991px) {
   .resume {
     background-color: #323744;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(208, 207, 207);
-    width: 65%;
+    width: 75%;
     height: "auto";
     margin-top: 30px;
     padding: 60px;
@@ -103,7 +128,7 @@
     color: rgb(208, 207, 207);
     width: 55%;
     height: "auto";
-    margin-top: 30px;
+    margin-top: 0;
     padding: 80px;
   }
 
@@ -122,19 +147,19 @@
 @media screen and (min-width: 1400px) {
   .resume {
     background-color: #323744;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(208, 207, 207);
     width: 45%;
     height: "auto";
     margin-top: 30px;
-    padding: 90px;
+    padding: 120px;
   }
 
   .resume .btn-custom {
     color: rgb(255, 255, 255);
     padding: 15px;
-    margin-top: 40px;
+    margin-top: 50px;
   }
 
   .resume .btn-custom:hover {

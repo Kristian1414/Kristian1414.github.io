@@ -1,54 +1,360 @@
-.custom-container-experience {
-  height: 100vh;
-  background-color: #757a89;
-  margin-top: 150px;
+@media screen and (max-width: 587px) {
+  .custom-container-experience {
+    height: 100vh;
+    background-color: #757a89;
+  }
+
+  .custom-col {
+    display: none;
+  }
+
+  .custom-col-kosong {
+    display: none;
+  }
+
+  .custom-experience-text {
+    font-size: 2.5rem;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    letter-spacing: 4px;
+    margin: 50px 0 60px 0;
+  }
+
+  .custom-years-left {
+    margin-right: 30px;
+    color: #01ff1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .custom-edu-left {
+    margin-right: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .custom-jurusan-left {
+    margin: 10px 30px 0 0;
+
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .custom-penjelasan-left {
+    margin-right: 30px;
+  }
+
+  .custom-years-right {
+    margin: 40px 0 0 30px;
+    color: #01ff1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .custom-edu-right {
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .custom-jurusan-right {
+    margin: 20px 0 0 30px;
+
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .custom-penjelasan-right {
+    margin: 0 0 70px 30px;
+  }
 }
 
-.custom-experience-text {
-  font-size: 2.5rem;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  letter-spacing: 4px;
-  margin-bottom: 80px;
+@media screen and (min-width: 588px) and (max-width: 767px) {
+  .custom-container-experience {
+    height: 120vh;
+    background-color: #757a89;
+    padding-bottom: 70px;
+  }
+
+  .custom-experience-text {
+    font-size: 2.5rem;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    letter-spacing: 4px;
+    margin: 70px 0 60px 0;
+  }
+
+  .custom-years-left {
+    margin-right: 30px;
+    color: #01ff1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .custom-edu-left {
+    margin-right: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .custom-jurusan-left {
+    margin: 10px 30px 0 0;
+
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .custom-penjelasan-left {
+    margin-right: 30px;
+  }
+
+  .custom-years-right {
+    margin: 40px 0 0 30px;
+    color: #01ff1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .custom-edu-right {
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .custom-jurusan-right {
+    margin: 20px 0 0 30px;
+
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .custom-penjelasan-right {
+    margin-left: 30px;
+  }
 }
 
-.custom-years-left {
-  margin-right: 110px;
-  color: #01ff1f;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .custom-container-experience {
+    height: 120vh;
+    background-color: #757a89;
+    padding-bottom: 70px;
+  }
+
+  .custom-experience-text {
+    font-size: 2.5rem;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    letter-spacing: 4px;
+    margin: 70px 0 80px 0;
+  }
+
+  .custom-years-left {
+    margin-right: 30px;
+    color: #01ff1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .custom-edu-left {
+    margin-right: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .custom-jurusan-left {
+    margin: 10px 30px 0 0;
+
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .custom-penjelasan-left {
+    margin-right: 30px;
+  }
+
+  .custom-years-right {
+    margin: 40px 0 0 30px;
+    color: #01ff1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .custom-edu-right {
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .custom-jurusan-right {
+    margin: 20px 0 0 30px;
+
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .custom-penjelasan-right {
+    margin-left: 30px;
+  }
 }
 
-.custom-edu-left {
-  margin-right: 110px;
-  font-family: Arial, Helvetica, sans-serif;
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .custom-container-experience {
+    height: 110vh;
+    background-color: #757a89;
+    padding-bottom: 70px;
+  }
+
+  .custom-experience-text {
+    font-size: 2.5rem;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    letter-spacing: 4px;
+    margin: 70px 0 80px 0;
+  }
+
+  .custom-years-left {
+    margin-right: 30px;
+    color: #01ff1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .custom-edu-left {
+    margin-right: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .custom-jurusan-left {
+    margin: 10px 30px 0 0;
+
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .custom-penjelasan-left {
+    margin-right: 30px;
+  }
+
+  .custom-years-right {
+    margin: 40px 0 0 30px;
+    color: #01ff1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .custom-edu-right {
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .custom-jurusan-right {
+    margin: 20px 0 0 30px;
+
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .custom-penjelasan-right {
+    margin-left: 30px;
+  }
 }
 
-.custom-jurusan-left {
-  margin-top: 20px;
-  margin-right: 110px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+  .custom-container-experience {
+    height: 110vh;
+    background-color: #757a89;
+    padding-bottom: 70px;
+  }
+
+  .custom-experience-text {
+    font-size: 2.5rem;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    letter-spacing: 4px;
+    margin: 70px 0 80px 0;
+  }
+
+  .custom-years-left {
+    margin-right: 110px;
+    color: #01ff1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .custom-edu-left {
+    margin-right: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .custom-jurusan-left {
+    margin: 10px 110px 0 0;
+
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .custom-penjelasan-left {
+    margin-right: 110px;
+  }
+
+  .custom-years-right {
+    margin: 40px 0 0 110px;
+    color: #01ff1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .custom-edu-right {
+    margin-left: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .custom-jurusan-right {
+    margin: 20px 0 0 110px;
+
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .custom-penjelasan-right {
+    margin-left: 110px;
+  }
 }
 
-.custom-penjelasan-left {
-  margin-right: 110px;
-}
+@media screen and (min-width: 1400px) {
+  .custom-container-experience {
+    height: 100vh;
+    background-color: #757a89;
+    padding-bottom: 70px;
+  }
 
-.custom-years-right {
-  margin-left: 110px;
-  color: #01ff1f;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+  .custom-experience-text {
+    font-size: 2.5rem;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    letter-spacing: 4px;
+    margin: 120px 0 80px 0;
+  }
 
-.custom-edu-right {
-  margin-left: 110px;
-  font-family: Arial, Helvetica, sans-serif;
-}
+  .text-ex-custom {
+    line-height: 40px;
+  }
 
-.custom-jurusan-right {
-  margin-top: 20px;
-  margin-left: 110px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-}
+  .custom-years-left {
+    font-size: 1.5rem;
+    margin-right: 110px;
+    color: #01ff1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
 
-.custom-penjelasan-right {
-  margin-left: 110px;
+  .custom-edu-left {
+    font-size: 2rem;
+    margin-right: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .custom-jurusan-left {
+    font-size: 1.5rem;
+    margin: 10px 110px 0 0;
+
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .custom-penjelasan-left {
+    margin-right: 110px;
+    font-size: 1.5rem;
+  }
+
+  .custom-years-right {
+    font-size: 1.5rem;
+    margin: 40px 0 0 110px;
+    color: #01ff1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .custom-edu-right {
+    font-size: 2rem;
+    margin-left: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .custom-jurusan-right {
+    font-size: 1.5rem;
+    margin: 20px 0 0 110px;
+
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .custom-penjelasan-right {
+    font-size: 1.5rem;
+    margin-left: 110px;
+  }
 }

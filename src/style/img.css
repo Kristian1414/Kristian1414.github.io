@@ -1,0 +1,356 @@
+@media screen and (max-width: 480px) {
+  .custom-con {
+    height: 500px;
+  }
+
+  .custom-con2 {
+    height: 790px;
+    overflow: hidden;
+  }
+
+  .con2-custom {
+    height: 155vh;
+    max-height: 155vh;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  .img2-custom {
+    height: 220vh;
+    width: 100%;
+    right: 0;
+    top: 0;
+    background-color: #727785;
+    opacity: 40%;
+    margin-top: -100px;
+    object-fit: cover;
+  }
+
+  .img3-custom {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    opacity: 30%;
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 576px) {
+  .custom-con {
+    height: 100vh;
+  }
+
+  .custom-con2 {
+    height: 150vh;
+    overflow: hidden;
+  }
+
+  .con2-custom {
+    height: 155vh;
+    max-height: 155vh;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  .img2-custom {
+    height: 220vh;
+    width: 100%;
+    right: 0;
+    top: 0;
+    background-color: #727785;
+    opacity: 40%;
+    margin-top: -100px;
+    object-fit: cover;
+  }
+
+  .img3-custom {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    opacity: 30%;
+  }
+}
+
+@media screen and (min-width: 577px) and (max-width: 767px) {
+  .custom-con {
+    height: 100vh;
+  }
+
+  .custom-con2 {
+    height: 155vh;
+    overflow: hidden;
+  }
+
+  .con2-custom {
+    height: 155vh;
+    max-height: 155vh;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .img2-custom {
+    height: 220vh;
+    width: 100%;
+    right: 0;
+    top: 0;
+    background-color: #727785;
+    opacity: 40%;
+    margin-top: -100px;
+    object-fit: cover;
+  }
+
+  .img3-custom {
+    position: absolute;
+    height: 120vh;
+    width: 100%;
+    opacity: 30%;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .custom-con {
+    height: 118vh;
+  }
+
+  .custom-con2 {
+    height: 170vh;
+    overflow: hidden;
+  }
+
+  .con1-custom {
+    height: 170vh;
+    background-color: #757a89;
+    margin: 0;
+    padding: 0;
+    right: 0;
+    margin-top: -80px;
+    max-width: 100%;
+    max-height: 120%;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  .img-custom {
+    height: 700px;
+    margin-right: -90px;
+    top: 0;
+    background-color: #727785;
+    opacity: 50%;
+    z-index: 0;
+  }
+
+  .con2-custom {
+    height: 170vh;
+    max-height: 205vh;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  .img2-custom {
+    height: 308vh;
+    width: 100%;
+    right: 0;
+    top: 0;
+    background-color: #727785;
+    opacity: 40%;
+    margin-top: -100px;
+  }
+
+  .img3-custom {
+    position: absolute;
+    height: 120vh;
+    width: 100%;
+    opacity: 30%;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .custom-con {
+    height: 118vh;
+  }
+
+  .custom-con2 {
+    height: 180vh;
+    overflow: hidden;
+  }
+
+  .con1-custom {
+    height: 170vh;
+    background-color: #757a89;
+    margin: 0;
+    padding: 0;
+    right: 0;
+    margin-top: -80px;
+    max-width: 100%;
+    max-height: 120%;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  .img-custom {
+    height: 700px;
+    margin-right: -30px;
+    top: 0;
+    background-color: #727785;
+    opacity: 50%;
+    z-index: 0;
+  }
+
+  .con2-custom {
+    height: 180vh;
+    max-height: 205vh;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  .img2-custom {
+    height: 308vh;
+    width: 100%;
+    right: 0;
+    top: 0;
+    background-color: #727785;
+    opacity: 40%;
+    margin-top: -100px;
+  }
+
+  .img3-custom {
+    position: absolute;
+    height: 110vh;
+    width: 100%;
+    opacity: 30%;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+  .custom-con {
+    height: 120vh;
+  }
+
+  .custom-con2 {
+    height: 220vh;
+    overflow: hidden;
+  }
+
+  .con1-custom {
+    height: 170vh;
+    background-color: #757a89;
+    margin: 0;
+    padding: 0;
+    right: 0;
+    margin-top: -88px;
+    max-width: 100%;
+    max-height: 120%;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  .img-custom {
+    width: 550px;
+    right: 0;
+    top: 0;
+    background-color: #727785;
+    opacity: 65%;
+    z-index: 0;
+  }
+
+  .con2-custom {
+    height: 220vh;
+    max-height: 220vh;
+    max-width: 100%;
+    margin-top: 0;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  .img2-custom {
+    height: 310vh;
+    width: 100%;
+    right: 0;
+    top: 0;
+    background-color: #727785;
+    opacity: 40%;
+    margin-top: -100px;
+  }
+
+  .img3-custom {
+    position: absolute;
+    height: 110vh;
+    width: 100%;
+    opacity: 30%;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .custom-con {
+    height: 100vh;
+  }
+
+  .custom-con2 {
+    height: 150vh;
+    overflow: hidden;
+  }
+
+  .con1-custom {
+    height: 100vh;
+    background-color: #757a89;
+    margin: 0;
+    padding: 0;
+    right: 0;
+    margin-top: -90px;
+    max-width: 100%;
+    max-height: 120%;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  .img-custom {
+    width: 790px;
+    right: 0;
+    top: 0;
+    background-color: #727785;
+    opacity: 65%;
+    z-index: 0;
+  }
+
+  .con2-custom {
+    height: 220vh;
+    max-height: 215vh;
+    max-width: 100%;
+    margin-top: 0;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  .img2-custom {
+    height: 310vh;
+    width: 100%;
+    right: 0;
+    top: 0;
+    background-color: #727785;
+    opacity: 40%;
+    margin-top: -100px;
+  }
+
+  .img3-custom {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    opacity: 30%;
+  }
+}
