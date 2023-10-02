@@ -1,7 +1,6 @@
 {
   "name": "myporto",
   "version": "0.1.0",
-  "homepage": "https://kristian1414.github.io/Personal-Website.github.io",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.17",
