@@ -6,7 +6,11 @@ function App() {
     <div>
       <Router>
         <Routes>
-          <Route exact path="/" element={<MainPage />} />
+          <Route
+            exact
+            path="/Personal-Website.github.io"
+            element={<MainPage />}
+          />
         </Routes>
       </Router>
     </div>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Personal-Website.github.io/static/css/main.e1b99dab.css",
-    "main.js": "/Personal-Website.github.io/static/js/main.896e96a4.js",
+    "main.js": "/Personal-Website.github.io/static/js/main.31b754ce.js",
     "static/media/mySelf.png": "/Personal-Website.github.io/static/media/mySelf.82989d7159e65e258b4e.png",
     "static/media/BG3.jpg": "/Personal-Website.github.io/static/media/BG3.5ddbea022e2e38ab7f67.jpg",
     "static/media/BG2.jpg": "/Personal-Website.github.io/static/media/BG2.e98df0479c845d7d3ef1.jpg",
@@ -11,10 +11,10 @@
     "static/media/js.png": "/Personal-Website.github.io/static/media/js.ec1c0379d0e87cc38946.png",
     "index.html": "/Personal-Website.github.io/index.html",
     "main.e1b99dab.css.map": "/Personal-Website.github.io/static/css/main.e1b99dab.css.map",
-    "main.896e96a4.js.map": "/Personal-Website.github.io/static/js/main.896e96a4.js.map"
+    "main.31b754ce.js.map": "/Personal-Website.github.io/static/js/main.31b754ce.js.map"
   },
   "entrypoints": [
     "static/css/main.e1b99dab.css",
-    "static/js/main.896e96a4.js"
+    "static/js/main.31b754ce.js"
   ]
 }
