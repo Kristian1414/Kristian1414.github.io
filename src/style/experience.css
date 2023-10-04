@@ -1,9 +1,4 @@
 @media screen and (max-width: 587px) {
-  .custom-container-experience {
-    height: 100vh;
-    background-color: #757a89;
-  }
-
   .custom-col {
     display: none;
   }
@@ -63,12 +58,6 @@
 }
 
 @media screen and (min-width: 588px) and (max-width: 767px) {
-  .custom-container-experience {
-    height: 120vh;
-    background-color: #757a89;
-    padding-bottom: 70px;
-  }
-
   .custom-experience-text {
     font-size: 2.5rem;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -121,7 +110,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
   .custom-container-experience {
-    height: 120vh;
+    height: 760px;
     background-color: #757a89;
     padding-bottom: 70px;
   }
@@ -178,7 +167,7 @@
 
 @media screen and (min-width: 992px) and (max-width: 1199px) {
   .custom-container-experience {
-    height: 110vh;
+    height: 700px;
     background-color: #757a89;
     padding-bottom: 70px;
   }
@@ -235,7 +224,7 @@
 
 @media screen and (min-width: 1200px) and (max-width: 1399px) {
   .custom-container-experience {
-    height: 110vh;
+    height: 720px;
     background-color: #757a89;
     padding-bottom: 70px;
   }

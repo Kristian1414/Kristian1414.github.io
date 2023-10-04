@@ -1,7 +1,7 @@
 {
   "name": "myporto",
   "version": "0.1.0",
-  "homepage": "https://kristian1414.github.io/Personal-Website.github.io/",
+  "homepage": "https://Kristian1414.github.io/Kristian1414.github.io",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.17",
@@ -21,11 +21,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [

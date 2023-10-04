@@ -161,10 +161,25 @@ const MainPage = () => {
           </div>
         </div>
         {/* Intro Selesai */}
+      </div>
+
+      <div className="container-fluid custom-con2 bg-dark p-0 m-0">
+        {/* Foto Dimulai */}
+        <div className="con2-custom">
+          <img
+            className="img2-custom"
+            style={{
+              transform: `translateY(${-scrollPosition / 5}px)`,
+            }}
+            src={BG2}
+            alt="myPhoto"
+          ></img>
+        </div>
+        {/* Foto Selesai */}
 
         {/* RESUME MULAI */}
 
-        <div className="resume mx-auto rounded-2 shadow-lg position-relative z-1">
+        <div className="resume mx-auto rounded-2 shadow-lg position-relative">
           <p className="custom-size lh-lg text-center">
             I am a fresh graduate of BINUS University with a major in computer
             science, and I have obtained several certifications in various
@@ -187,24 +202,9 @@ const MainPage = () => {
         </div>
 
         {/* RESUME SELESAI */}
-      </div>
-
-      <div className="container-fluid custom-con2 bg-dark p-0 m-0 position-relative">
-        {/* Foto Dimulai */}
-        <div className="con2-custom">
-          <img
-            className="img2-custom"
-            style={{
-              transform: `translateY(${-scrollPosition / 5}px)`,
-            }}
-            src={BG2}
-            alt="myPhoto"
-          ></img>
-        </div>
-        {/* Foto Selesai */}
 
         {/* SKILLS DIMULAI */}
-        <div className="position-absolute custom-skills-awal">
+        <div className="position-relative">
           <h1
             className="custom-skills-h1 text-center text-light"
             ref={skillRef}
@@ -280,10 +280,16 @@ const MainPage = () => {
 
       {/* EDUCATION DIMULAI */}
       <div
-        className="container-fluid custom-container-experience bg-dark overflow-hidden m-0 p-0"
+        className="container-fluid custom-container-experience bg-dark m-0 p-0"
         ref={exRef}
       >
-        <img className="img3-custom object-fit-cover" src={BG3} alt="BG3"></img>
+        <div className="container-fluid custom-con3 overflow-hidden position-absolute m-0 p-0">
+          <img
+            className="img3-custom object-fit-cover"
+            src={BG3}
+            alt="BG3"
+          ></img>
+        </div>
 
         <div className="position-relative">
           <div className="row">
