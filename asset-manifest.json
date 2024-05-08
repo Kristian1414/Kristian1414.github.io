@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b66d2d88.css",
+    "main.js": "/static/js/main.615829da.js",
+    "static/media/kristian.jpg": "/static/media/kristian.688bd1ed86d35e0355aa.jpg",
+    "static/media/kristian2.jpg": "/static/media/kristian2.0cea088031c0bbff49e1.jpg",
+    "static/media/img-con3.jpg": "/static/media/img-con3.da9b0da0d2b95317ce21.jpg",
+    "static/media/img-con2.jpg": "/static/media/img-con2.14b558f9f29233a780c4.jpg",
+    "static/media/img-con4.jpg": "/static/media/img-con4.47b851bfcdad3f5e3f64.jpg",
+    "static/media/bpk.png": "/static/media/bpk.929a23cd0eefa73042b0.png",
+    "static/media/css.png": "/static/media/css.19c8605d6b2861f5fbe0.png",
+    "static/media/reactjs.png": "/static/media/reactjs.fd373eec9017cf21b26d.png",
+    "static/media/js.png": "/static/media/js.ec1c0379d0e87cc38946.png",
+    "static/media/Logo_Binus_University.png": "/static/media/Logo_Binus_University.0238fd3ad62151045540.png",
+    "static/media/nodejs.jpg": "/static/media/nodejs.413f6107011d5a98f1e9.jpg",
+    "index.html": "/index.html",
+    "main.b66d2d88.css.map": "/static/css/main.b66d2d88.css.map",
+    "main.615829da.js.map": "/static/js/main.615829da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b66d2d88.css",
+    "static/js/main.615829da.js"
+  ]
+}
