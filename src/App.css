@@ -1,0 +1,1644 @@
+@media (max-width: 575.98px) {
+  .con-1{
+    height:100vh;
+    background-color:black;
+    clip-path: inset(0 0 0 0);
+  }
+  
+  .custom-btn-page{
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+    z-index: 1;
+    width: 15vw;
+    height: 15vw;
+    border-radius: 50%;
+    font-size: 60px;
+    border: none;
+    background-color: white;
+  }
+  
+  .custom-btn-page:hover{
+    background-color: rgb(87, 87, 87);
+    color: white;
+  }
+
+  .custom-navbar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+  }
+  
+  .custom-nav-home{
+    font-size: 1.2em;
+    color: rgb(206, 206, 206);
+    padding:2%;
+  }
+  
+  .custom-nav-about{
+    font-size: 1.2em;
+    color: rgb(206, 206, 206);
+    padding:2%;
+  }
+  
+  .custom-nav-skills{
+    font-size: 1.2em;
+    color: rgb(206, 206, 206);
+    padding:2%;
+  }
+  
+  .custom-nav-edu{
+    font-size: 1.2em;
+    color: rgb(206, 206, 206);
+    padding:2%;
+  }
+  
+  .custom-nav-home:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-about:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-skills:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-edu:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .img1-custom{
+    height: auto;
+    width: 600%;
+    transform: translate(-36%, -30%);
+    top: 0;
+    left: 0;
+    opacity: 70%;
+  }
+  
+  .custom-con-title{
+    text-align: center;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .custom-title1{
+    font-size: 4em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .custom-text1{
+    font-size: 1em;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .con-2{
+    height:auto;
+    background-color:black;
+  }
+  
+  .custom-title1-con2{
+    font-size: 2.5em;
+    font-weight: bold;
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .custom-text1-con2{
+    font-size: 1.1em;
+    text-align:center;
+  }
+  
+  .img2-custom{
+    height: 100%;
+    width: 100%;
+    opacity: 50%;
+    object-fit: cover;
+  }
+  
+  .img3-con{
+    height: 50vw;
+    width: 40vw;
+    border-radius: 10%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+  }
+  
+  .img3-custom{
+    width: 190%;
+    transform: translate(-25%, -20%);
+    opacity: 90%;
+  }
+  
+  .custom-btn1{
+    width: 76%;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 15px;
+    border: none;
+    font-weight: bold;
+    position: relative;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .custom-btn1:hover{
+    background-color: #00BD16;
+  }
+  
+  .mycontact{
+    background-color: white;
+    width: 13%;
+    border-radius: 0 15px 15px 0;
+    top: 25%;
+    transform: translateY(-50%)
+  }
+  
+  .linkedin-custom{
+    font-size: 1.7em;
+    padding: 20%;
+    color: black;
+  }
+  
+  .linkedin-custom:hover{
+    color: blue;
+  }
+  
+  .wa-custom{
+    font-size: 1.7em;
+    padding: 20%;
+    color: black;
+  }
+  
+  .wa-custom:hover{
+    color: green;
+  }
+  
+  .gmail-custom{
+    font-size: 1.7em;
+    padding: 20%;
+    color: black;
+  }
+  
+  .gmail-custom:hover{
+    color: red;
+  }
+  
+  .con-3{
+    height: auto;
+    background-color: black;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('C:\Users\User\Documents\myporto\personal_web\src\images\img-con3.jpg');
+    background-attachment: fixed;
+    background-position: 0, 80%;
+    background-color: transparent;
+    background-size: cover;
+  }
+
+  .custom-col-html{
+    justify-content: end;
+    padding: 5%;
+  }
+
+  .custom-col-css{
+    padding: 5%;
+  }
+
+  .custom-col-js{
+    justify-content: end;
+    padding: 5%;
+  }
+
+  .custom-col-react{
+    padding: 5%;
+  }
+
+  .custom-col-node{
+    justify-content: end;
+    padding: 5%;
+  }
+
+  .custom-col-sql{
+    padding: 5%;
+  }
+
+  .custom-title1-con3{
+    font-size: 3em;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .custom-con-card{
+    width: 100%;
+  }
+  
+  .custom-card{
+    height: 35vw;
+    width: 35vw;
+    background-color: white;
+    border-radius: 20px;
+  }
+  
+  .img-custom-card{
+    height: 100%;
+    width: 100%;
+    padding: 18%;
+    object-fit:scale-down;
+  }
+  
+  .img-custom-card-js{
+    height: 100%;
+    width: 100%;
+    padding: 15%;
+    object-fit:cover;
+  }
+  
+  .con4{
+    height: auto;
+    background-color: black;
+  }
+  
+  .bg4-custom{
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+    opacity: 40%;
+    position:fixed ;
+  }
+  
+  .custom-card-edu{
+    width: 55vw;
+    height: 55vw;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 50%;
+    top:0;
+    transform: translateX(-50%);
+    margin-top: 10%;
+  }
+  
+  .custom-major{
+   font-size: 19px;
+   font-weight:500;
+  }
+  
+  .custom-title-orga{
+    font-size: 1.4em;
+    font-weight:700;
+    text-align: center;
+  }
+  
+  .custom-body-orga{
+    font-size: 1em;
+    font-weight:500;
+    text-align: center;
+  }
+
+  .custom-body-edu{
+    margin-bottom: 25%;
+  }
+ }
+
+/* @media (min-width: 575.99px) and (max-width: 767.98px) { 
+    
+} */
+
+@media (min-width: 767.99px) and (max-width: 991.98px) { 
+  .con-1{
+    height:100vh;
+    background-color:black;
+    clip-path: inset(0 0 0 0);
+  }
+  
+  .custom-btn-page{
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+    z-index: 1;
+    width: 12vw;
+    height: 12vw;
+    border-radius: 50%;
+    font-size: 6em;
+    border: none;
+    background-color: white;
+  }
+  
+  .custom-btn-page:hover{
+    background-color: rgb(87, 87, 87);
+    color: white;
+  }
+
+  .custom-navbar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+  }
+  
+  .custom-nav-home{
+    font-size: 2em;
+    color: rgb(206, 206, 206);
+    padding:2%;
+  }
+  
+  .custom-nav-about{
+    font-size: 2em;
+    color: rgb(206, 206, 206);
+    padding:2%;
+  }
+  
+  .custom-nav-skills{
+    font-size: 2em;
+    color: rgb(206, 206, 206);
+    padding:2%;
+  }
+  
+  .custom-nav-edu{
+    font-size: 2em;
+    color: rgb(206, 206, 206);
+    padding:2%;
+  }
+  
+  .custom-nav-home:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-about:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-skills:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-edu:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .img1-custom{
+    height: auto;
+    width: 450%;
+    transform: translate(-38%, -30%);
+    top: 0;
+    left: 0;
+    opacity: 70%;
+  }
+  
+  .custom-con-title{
+    text-align: end;
+    top: 50%;
+    right:0;
+    transform: translateY(-50%);
+    padding-right: 10%;
+  }
+  
+  .custom-title1{
+    font-size: 5em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .custom-text1{
+    font-size: 1.5em;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .con-2{
+    height:auto;
+    background-color:black;
+  }
+  
+  .custom-title1-con2{
+    font-size: 4em;
+    font-weight: bold;
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .custom-text1-con2{
+    font-size: 1.6em;
+    text-align:center;
+  }
+  
+  .img2-custom{
+    height: 100%;
+    width: 100%;
+    opacity: 50%;
+    object-fit: cover;
+  }
+  
+  .img3-con{
+    height: 50vw;
+    width: 40vw;
+    border-radius: 10%;
+    margin-bottom: 2%;
+    margin-top: 6%;
+  }
+  
+  .img3-custom{
+    width: 190%;
+    transform: translate(-25%, -20%);
+    opacity: 90%;
+  }
+  
+  .custom-btn1{
+    width: 70%;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 15px;
+    border: none;
+    font-weight: bold;
+    position: relative;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1.6em;
+  }
+  
+  .custom-btn1:hover{
+    background-color: #00BD16;
+  }
+  
+  .mycontact{
+    background-color: white;
+    width: 13%;
+    border-radius: 0 15px 15px 0;
+    top: 32%;
+    transform: translateY(-50%)
+  }
+  
+  .linkedin-custom{
+    font-size: 3em;
+    padding: 15%;
+    color: black;
+  }
+  
+  .linkedin-custom:hover{
+    color: blue;
+  }
+  
+  .wa-custom{
+    font-size: 3em;
+    padding: 15%;
+    color: black;
+  }
+  
+  .wa-custom:hover{
+    color: green;
+  }
+  
+  .gmail-custom{
+    font-size: 3em;
+    padding: 15%;
+    color: black;
+  }
+  
+  .gmail-custom:hover{
+    color: red;
+  }
+  
+  .con-3{
+    height: auto;
+    background-color: black;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('C:\Users\User\Documents\myporto\personal_web\src\images\img-con3.jpg');
+    background-attachment: fixed;
+    background-position: 0, 80%;
+    background-color: transparent;
+    background-size: cover;
+  }
+
+  .custom-col-html{
+    justify-content: end;
+    padding: 5%;
+  }
+
+  .custom-col-css{
+    justify-content: center;
+    padding: 5%;
+  }
+
+  .custom-col-js{
+    justify-content: start;
+    padding: 5%;
+  }
+
+  .custom-col-react{
+    justify-content: end;
+    padding: 5%;
+  }
+
+  .custom-col-node{
+    justify-content: center;
+    padding: 5%;
+  }
+
+  .custom-col-sql{
+    justify-content: start;
+    padding: 5%;
+  }
+
+  .custom-title1-con3{
+    font-size: 4em;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .custom-con-card{
+    width: 100%;
+  }
+  
+  .custom-card{
+    height: 28vw;
+    width: 28vw;
+    background-color: white;
+    border-radius: 20px;
+  }
+  
+  .img-custom-card{
+    height: 100%;
+    width: 100%;
+    padding: 18%;
+    object-fit:scale-down;
+  }
+  
+  .img-custom-card-js{
+    height: 100%;
+    width: 100%;
+    padding: 15%;
+    object-fit:cover;
+  }
+  
+  .con4{
+    height: auto;
+    background-color: black;
+  }
+  
+  .bg4-custom{
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+    opacity: 40%;
+    position:fixed ;
+  }
+  
+  .custom-card-edu{
+    width: 40vw;
+    height: 40vw;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 50%;
+    top:0;
+    transform: translateX(-50%);
+    margin-top: 10%;
+  }
+
+  .custom-school{
+    font-size: 2em;
+  }
+  
+  .custom-major{
+   font-size: 1.5em;
+   font-weight:500;
+  }
+  
+  .custom-title-orga{
+    font-size: 1.8em;
+    font-weight:700;
+    text-align: center;
+  }
+  
+  .custom-body-orga{
+    font-size: 1.5em;
+    font-weight:500;
+    text-align: center;
+  }
+
+  .custom-body-edu{
+    margin-bottom: 25%;
+  }
+}
+
+@media (min-width: 991.99px) and (max-width: 1199.98px) { 
+  .con-1{
+    height:100vh;
+    background-color:black;
+    clip-path: inset(0 0 0 0);
+  }
+  
+  .custom-btn-page{
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+    z-index: 1;
+    width: 9vw;
+    height: 9vw;
+    border-radius: 50%;
+    font-size: 6em;
+    border: none;
+    background-color: white;
+  }
+  
+  .custom-btn-page:hover{
+    background-color: rgb(87, 87, 87);
+    color: white;
+  }
+
+  .custom-navbar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+  }
+  
+  .custom-nav-home{
+    font-size: 2em;
+    color: rgb(206, 206, 206);
+    padding:2%;
+  }
+  
+  .custom-nav-about{
+    font-size: 2em;
+    color: rgb(206, 206, 206);
+    padding:2%;
+  }
+  
+  .custom-nav-skills{
+    font-size: 2em;
+    color: rgb(206, 206, 206);
+    padding:2%;
+  }
+  
+  .custom-nav-edu{
+    font-size: 2em;
+    color: rgb(206, 206, 206);
+    padding:2%;
+  }
+  
+  .custom-nav-home:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-about:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-skills:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-edu:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .img1-custom{
+    height: auto;
+    width: 270%;
+    transform: translate(-35%, -30%);
+    top: 0;
+    left: 0;
+    opacity: 70%;
+  }
+  
+  .custom-con-title{
+    text-align: end;
+    top: 50%;
+    right:0;
+    transform: translateY(-50%);
+    padding-right: 10%;
+  }
+  
+  .custom-title1{
+    font-size: 5em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .custom-text1{
+    font-size: 1.5em;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .con-2{
+    height:auto;
+    background-color:black;
+  }
+  
+  .custom-title1-con2{
+    font-size: 4em;
+    font-weight: bold;
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .custom-text1-con2{
+    font-size: 1.5em;
+    text-align:center;
+  }
+  
+  .img2-custom{
+    height: 100%;
+    width: 100%;
+    opacity: 50%;
+    object-fit: cover;
+  }
+  
+  .img3-con{
+    height: 35vw;
+    width: 27vw;
+    border-radius: 10%;
+    margin-bottom: 2%;
+    margin-top: 6%;
+  }
+  
+  .img3-custom{
+    width: 190%;
+    transform: translate(-25%, -20%);
+    opacity: 90%;
+  }
+  
+  .custom-btn1{
+    width: 70%;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 15px;
+    border: none;
+    font-weight: bold;
+    position: relative;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1.3em;
+  }
+  
+  .custom-btn1:hover{
+    background-color: #00BD16;
+  }
+  
+  .mycontact{
+    background-color: white;
+    width: 7%;
+    border-radius: 0 15px 15px 0;
+    top: 50%;
+    transform: translateY(-50%)
+  }
+  
+  .linkedin-custom{
+    font-size: 2.5em;
+    padding: 15%;
+    color: black;
+  }
+  
+  .linkedin-custom:hover{
+    color: blue;
+  }
+  
+  .wa-custom{
+    font-size: 2.5em;
+    padding: 15%;
+    color: black;
+  }
+  
+  .wa-custom:hover{
+    color: green;
+  }
+  
+  .gmail-custom{
+    font-size: 2.5em;
+    padding: 15%;
+    color: black;
+  }
+  
+  .gmail-custom:hover{
+    color: red;
+  }
+  
+  .con-3{
+    height: auto;
+    background-color: black;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('C:\Users\User\Documents\myporto\personal_web\src\images\img-con3.jpg');
+    background-attachment: fixed;
+    background-position: 0, 80%;
+    background-color: transparent;
+    background-size: cover;
+  }
+
+  .custom-col-html{
+    justify-content: end;
+    padding: 3%;
+  }
+
+  .custom-col-css{
+    justify-content: center;
+    padding: 3%;
+  }
+
+  .custom-col-js{
+    justify-content: start;
+    padding: 3%;
+  }
+
+  .custom-col-react{
+    justify-content: end;
+    padding: 3%;
+  }
+
+  .custom-col-node{
+    justify-content: center;
+    padding: 3%;
+  }
+
+  .custom-col-sql{
+    justify-content: start;
+    padding: 3%;
+  }
+
+  .custom-title1-con3{
+    font-size: 4em;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .custom-con-card{
+    width: 100%;
+  }
+  
+  .custom-card{
+    height: 20vw;
+    width: 20vw;
+    background-color: white;
+    border-radius: 20px;
+  }
+  
+  .img-custom-card{
+    height: 100%;
+    width: 100%;
+    padding: 18%;
+    object-fit:scale-down;
+  }
+  
+  .img-custom-card-js{
+    height: 100%;
+    width: 100%;
+    padding: 18%;
+    object-fit:cover;
+  }
+  
+  .con4{
+    height: auto;
+    background-color: black;
+  }
+  
+  .bg4-custom{
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+    opacity: 40%;
+    position:fixed ;
+  }
+  
+  .custom-card-edu{
+    width: 25vw;
+    height: 25vw;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 50%;
+    top:0;
+    transform: translateX(-50%);
+    margin-top: 10%;
+  }
+
+  .custom-school{
+    font-size: 1.8em;
+  }
+  
+  .custom-major{
+   font-size: 1.4em;
+   font-weight:500;
+  }
+  
+  .custom-title-orga{
+    font-size: 1.8em;
+    font-weight:700;
+    text-align: center;
+  }
+  
+  .custom-body-orga{
+    font-size: 1.4em;
+    font-weight:500;
+    text-align: center;
+  }
+
+  .custom-body-edu{
+    margin-bottom: 25%;
+  }
+}
+
+@media (min-width: 1199.99px) and (max-width: 1399.98px) {
+
+  .con-1{
+    height:100vh;
+    background-color:black;
+    clip-path: inset(0 0 0 0);
+  }
+  
+  .custom-btn-page{
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+    z-index: 1;
+    width: 4.5vw;
+    height: 4.5vw;
+    border-radius: 50%;
+    font-size: 4em;
+    border: none;
+    background-color: white;
+  }
+  
+  .custom-btn-page:hover{
+    background-color: rgb(87, 87, 87);
+    color: white;
+  }
+
+  .custom-navbar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+  }
+  
+  .custom-nav-home{
+    font-size: 1.3em;
+    color: rgb(206, 206, 206);
+    padding:1%;
+  }
+  
+  .custom-nav-about{
+    font-size: 1.3em;
+    color: rgb(206, 206, 206);
+    padding:1%;
+    offset: 50px;
+  }
+  
+  .custom-nav-skills{
+    font-size: 1.3em;
+    color: rgb(206, 206, 206);
+    padding:1%;
+  }
+  
+  .custom-nav-edu{
+    font-size: 1.3em;
+    color: rgb(206, 206, 206);
+    padding:1%;
+  }
+  
+  .custom-nav-home:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-about:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-skills:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-edu:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .img1-custom{
+    height: auto;
+    width: 200%;
+    transform: translate(-30%, -30%);
+    top: 0;
+    left: 0;
+    opacity: 70%;
+  }
+  
+  .custom-con-title{
+    text-align: end;
+    top: 50%;
+    right:0;
+    transform: translateY(-50%);
+    padding-right: 10%;
+  }
+  
+  .custom-title1{
+    font-size: 5em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .custom-text1{
+    font-size: 1.3em;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .con-2{
+    height:100vh;
+    background-color:black;
+  }
+  
+  .custom-title1-con2{
+    font-size: 3.5em;
+    font-weight: bold;
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .custom-text1-con2{
+    font-size: 1.2em;
+    text-align:center;
+  }
+  
+  .img2-custom{
+    height: 100%;
+    width: 100%;
+    opacity: 50%;
+    object-fit: cover;
+  }
+  
+  .img3-con{
+    height: 26vw;
+    width: 20vw;
+    border-radius: 10%;
+    margin-bottom: 2%;
+    margin-top: 6%;
+  }
+  
+  .img3-custom{
+    width: 190%;
+    transform: translate(-25%, -20%);
+    opacity: 90%;
+  }
+  
+  .custom-btn1{
+    width: 70%;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 15px;
+    border: none;
+    font-weight: bold;
+    position: relative;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1em;
+  }
+  
+  .custom-btn1:hover{
+    background-color: #00BD16;
+  }
+  
+  .mycontact{
+    background-color: white;
+    width: 5%;
+    border-radius: 0 15px 15px 0;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%)
+  }
+  
+  .linkedin-custom{
+    font-size: 2.3em;
+    padding: 15%;
+    color: black;
+  }
+  
+  .linkedin-custom:hover{
+    color: blue;
+  }
+  
+  .wa-custom{
+    font-size: 2.3em;
+    padding: 15%;
+    color: black;
+  }
+  
+  .wa-custom:hover{
+    color: green;
+  }
+  
+  .gmail-custom{
+    font-size: 2.3em;
+    padding: 15%;
+    color: black;
+  }
+  
+  .gmail-custom:hover{
+    color: red;
+  }
+  
+  .con-3{
+    height: 100vh;
+    background-color: black;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('C:\Users\User\Documents\myporto\personal_web\src\images\img-con3.jpg');
+    background-attachment: fixed;
+    background-position: 0, 80%;
+    background-color: transparent;
+    background-size: cover;
+  }
+
+  .custom-col-html{
+    justify-content: end;
+    padding: 2%;
+  }
+
+  .custom-col-css{
+    justify-content: center;
+    padding: 2%;
+  }
+
+  .custom-col-js{
+    justify-content: start;
+    padding: 2%;
+  }
+
+  .custom-col-react{
+    justify-content: end;
+    padding: 2%;
+  }
+
+  .custom-col-node{
+    justify-content: center;
+    padding: 2%;
+  }
+
+  .custom-col-sql{
+    justify-content: start;
+    padding: 2%;
+  }
+
+  .custom-title1-con3{
+    font-size: 3.5em;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .custom-con-card{
+    width: 100%;
+  }
+  
+  .custom-card{
+    height: 13vw;
+    width: 13vw;
+    background-color: white;
+    border-radius: 20px;
+  }
+  
+  .img-custom-card{
+    height: 100%;
+    width: 100%;
+    padding: 18%;
+    object-fit:scale-down;
+  }
+  
+  .img-custom-card-js{
+    height: 100%;
+    width: 100%;
+    padding: 18%;
+    object-fit:cover;
+  }
+  
+  .con4{
+    height: 110vh;
+    background-color: black;
+  }
+  
+  .bg4-custom{
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+    opacity: 40%;
+    position:fixed ;
+  }
+  
+  .custom-card-edu{
+    width: 15vw;
+    height: 15vw;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 50%;
+    top:0;
+    transform: translateX(-50%);
+    margin-top: 5%;
+  }
+
+  .custom-school{
+    font-size: 1.5em;
+  }
+  
+  .custom-major{
+   font-size: 1em;
+   font-weight:500;
+  }
+  
+  .custom-title-orga{
+    font-size: 1.3em;
+    font-weight:700;
+    text-align: center;
+  }
+  
+  .custom-body-orga{
+    font-size: 1.2em;
+    font-weight:500;
+    text-align: center;
+  }
+
+}
+
+@media (min-width: 1399.99px) {
+
+  .con-1{
+    height:100vh;
+    background-color:black;
+    clip-path: inset(0 0 0 0);
+  }
+  
+  .custom-btn-page{
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+    z-index: 1;
+    width: 4.5vw;
+    height: 4.5vw;
+    border-radius: 50%;
+    font-size: 4em;
+    border: none;
+    background-color: white;
+  }
+  
+  .custom-btn-page:hover{
+    background-color: rgb(87, 87, 87);
+    color: white;
+  }
+
+  .custom-navbar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+  }
+  
+  .custom-nav-home{
+    font-size: 1.5em;
+    color: rgb(206, 206, 206);
+    padding:1%;
+  }
+  
+  .custom-nav-about{
+    font-size: 1.5em;
+    color: rgb(206, 206, 206);
+    padding:1%;
+    offset: 50px;
+  }
+  
+  .custom-nav-skills{
+    font-size: 1.5em;
+    color: rgb(206, 206, 206);
+    padding:1%;
+  }
+  
+  .custom-nav-edu{
+    font-size: 1.5em;
+    color: rgb(206, 206, 206);
+    padding:1%;
+  }
+  
+  .custom-nav-home:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-about:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-skills:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .custom-nav-edu:hover{
+    transition: 0.3s;
+    text-shadow: 0 0 10px white;
+    color: white;
+  }
+  
+  .img1-custom{
+    height: auto;
+    width: 200%;
+    transform: translate(-28%, -30%);
+    top: 0;
+    left: 0;
+    opacity: 70%;
+  }
+  
+  .custom-con-title{
+    text-align: end;
+    top: 50%;
+    right:0;
+    transform: translateY(-50%);
+    padding-right: 10%;
+  }
+  
+  .custom-title1{
+    font-size: 7em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .custom-text1{
+    font-size: 1.5em;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .con-2{
+    height:100vh;
+    background-color:black;
+  }
+  
+  .custom-title1-con2{
+    font-size: 5em;
+    font-weight: bold;
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .custom-text1-con2{
+    font-size: 1.5em;
+    text-align:center;
+  }
+  
+  .img2-custom{
+    height: 100%;
+    width: 100%;
+    opacity: 50%;
+    object-fit: cover;
+  }
+  
+  .img3-con{
+    height: 28vw;
+    width: 22vw;
+    border-radius: 10%;
+    margin-bottom: 2%;
+    margin-top: 6%;
+  }
+  
+  .img3-custom{
+    width: 190%;
+    transform: translate(-25%, -20%);
+    opacity: 90%;
+  }
+  
+  .custom-btn1{
+    width: 70%;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 15px;
+    border: none;
+    font-weight: bold;
+    position: relative;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1.3em;
+  }
+  
+  .custom-btn1:hover{
+    background-color: #00BD16;
+  }
+  
+  .mycontact{
+    background-color: white;
+    width: 5%;
+    border-radius: 0 15px 15px 0;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%)
+  }
+  
+  .linkedin-custom{
+    font-size: 3em;
+    padding: 15%;
+    color: black;
+  }
+  
+  .linkedin-custom:hover{
+    color: blue;
+  }
+  
+  .wa-custom{
+    font-size: 3em;
+    padding: 15%;
+    color: black;
+  }
+  
+  .wa-custom:hover{
+    color: green;
+  }
+  
+  .gmail-custom{
+    font-size: 3em;
+    padding: 15%;
+    color: black;
+  }
+  
+  .gmail-custom:hover{
+    color: red;
+  }
+  
+  .con-3{
+    height: 100vh;
+    background-color: black;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('C:\Users\User\Documents\myporto\personal_web\src\images\img-con3.jpg');
+    background-attachment: fixed;
+    background-position: 0, 80%;
+    background-color: transparent;
+    background-size: cover;
+  }
+
+  .custom-col-html{
+    justify-content: end;
+    padding: 2%;
+  }
+
+  .custom-col-css{
+    justify-content: center;
+    padding: 2%;
+  }
+
+  .custom-col-js{
+    justify-content: start;
+    padding: 2%;
+  }
+
+  .custom-col-react{
+    justify-content: end;
+    padding: 2%;
+  }
+
+  .custom-col-node{
+    justify-content: center;
+    padding: 2%;
+  }
+
+  .custom-col-sql{
+    justify-content: start;
+    padding: 2%;
+  }
+
+  .custom-title1-con3{
+    font-size: 5em;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .custom-con-card{
+    width: 100%;
+  }
+  
+  .custom-card{
+    height: 15vw;
+    width: 15vw;
+    background-color: white;
+    border-radius: 20px;
+  }
+  
+  .img-custom-card{
+    height: 100%;
+    width: 100%;
+    padding: 18%;
+    object-fit:scale-down;
+  }
+  
+  .img-custom-card-js{
+    height: 100%;
+    width: 100%;
+    padding: 18%;
+    object-fit:cover;
+  }
+  
+  .con4{
+    height: 110vh;
+    background-color: black;
+  }
+  
+  .bg4-custom{
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+    opacity: 40%;
+    position:fixed ;
+  }
+  
+  .custom-card-edu{
+    width: 18vw;
+    height: 18vw;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 50%;
+    top:0;
+    transform: translateX(-50%);
+    margin-top: 5%;
+  }
+
+  .custom-school{
+    font-size: 2.2em;
+  }
+  
+  .custom-major{
+   font-size: 1.5em;
+   font-weight:500;
+  }
+  
+  .custom-title-orga{
+    font-size: 1.8em;
+    font-weight:700;
+    text-align: center;
+  }
+  
+  .custom-body-orga{
+    font-size: 1.7em;
+    font-weight:500;
+    text-align: center;
+  }
+
+}
