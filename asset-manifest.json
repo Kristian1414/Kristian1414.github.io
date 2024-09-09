@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.88e89bea.css",
-    "main.js": "/static/js/main.3f341fea.js",
+    "main.css": "/static/css/main.63de2bf2.css",
+    "main.js": "/static/js/main.47a73ca6.js",
     "static/media/kristian.jpg": "/static/media/kristian.3a06e31efdf18b1b31f7.jpg",
     "static/media/chamytwins.jpg": "/static/media/chamytwins.b20df8af9ee535e4cb5b.jpg",
     "static/media/html.png": "/static/media/html.90b058b194ed26cf474a.png",
     "static/media/photoshop.png": "/static/media/photoshop.d97a79e41d82f4c2c5ff.png",
     "static/media/NodeJs.png": "/static/media/NodeJs.3793695c5957741abbcc.png",
+    "static/media/clinique.JPG": "/static/media/clinique.7f6f4feb9327b01022fe.JPG",
     "static/media/css.png": "/static/media/css.92d6780865339d1cb3c3.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.a7c8d4ac3f07e031e310.png",
     "static/media/js.png": "/static/media/js.aa8cb59a5281b598626e.png",
@@ -14,11 +15,11 @@
     "static/media/reactJs.png": "/static/media/reactJs.fd373eec9017cf21b26d.png",
     "static/media/Figma.png": "/static/media/Figma.46400ab8543f71a3650b.png",
     "index.html": "/index.html",
-    "main.88e89bea.css.map": "/static/css/main.88e89bea.css.map",
-    "main.3f341fea.js.map": "/static/js/main.3f341fea.js.map"
+    "main.63de2bf2.css.map": "/static/css/main.63de2bf2.css.map",
+    "main.47a73ca6.js.map": "/static/js/main.47a73ca6.js.map"
   },
   "entrypoints": [
-    "static/css/main.88e89bea.css",
-    "static/js/main.3f341fea.js"
+    "static/css/main.63de2bf2.css",
+    "static/js/main.47a73ca6.js"
   ]
 }
