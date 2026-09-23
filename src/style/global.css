@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-ink-950 font-sans text-slate-300;
+    text-rendering: optimizeLegibility;
+  }
+
+  section[id] {
+    scroll-margin-top: 5rem;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-display text-white;
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  ::selection {
+    @apply bg-accent/30 text-white;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-accent ring-offset-2 ring-offset-ink-950;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply relative mx-auto w-full max-w-6xl px-5 sm:px-8;
+  }
+
+  .eyebrow {
+    @apply text-sm font-semibold uppercase tracking-[0.12em] text-accent-soft;
+  }
+
+  .section-title {
+    @apply mt-3 text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl;
+  }
+
+  .text-gradient {
+    background-image: linear-gradient(90deg, #8fb0ff 0%, #5b8cff 50%, #a495ff 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    padding-bottom: 0.08em;
+  }
+
+  /* Light sections: darker accent shades keep contrast on white. */
+  .theme-light .eyebrow {
+    @apply text-blue-700;
+  }
+
+  .theme-light .text-gradient {
+    background-image: linear-gradient(90deg, #2563eb 0%, #4f46e5 55%, #7c3aed 100%);
+  }
+
+  .theme-light :focus-visible {
+    @apply ring-blue-600 ring-offset-white;
+  }
+
+  .card-surface {
+    @apply rounded-2xl border border-white/[0.08] bg-white/[0.03] backdrop-blur-sm;
+  }
+
+  .btn {
+    @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-full px-6 text-sm font-medium transition duration-200 sm:text-base;
+  }
+
+  .btn-primary {
+    @apply btn bg-accent text-white shadow-[0_8px_30px_-8px_rgba(91,140,255,0.6)] hover:-translate-y-0.5 hover:bg-accent-soft hover:text-ink-950;
+  }
+
+  .btn-ghost {
+    @apply btn border border-white/15 text-slate-200 hover:border-white/40 hover:bg-white/5;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
