@@ -257,7 +257,7 @@ const Projects = () => (
             key={project.title}
             as="article"
             delay={(i % 2) * 0.1}
-            className="group flex flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-slate-300 hover:shadow-[0_24px_50px_-20px_rgba(37,99,235,0.35)]"
+            className="group relative flex flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-slate-300 hover:shadow-[0_24px_50px_-20px_rgba(37,99,235,0.35)]"
           >
             <div className="overflow-hidden border-b border-slate-200 bg-slate-100">
               <img
@@ -289,7 +289,7 @@ const Projects = () => (
                 href={project.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="mt-6 inline-flex min-h-[44px] items-center gap-2 self-start text-sm font-semibold text-blue-600 transition-colors hover:text-blue-800"
+                className="mt-6 inline-flex min-h-[44px] items-center gap-2 self-start text-sm font-semibold text-blue-600 transition-colors hover:text-blue-800 after:absolute after:inset-0 after:rounded-2xl"
               >
                 Visit website
                 <i
