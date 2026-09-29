@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.2ed9311d.css",
-    "main.js": "/static/js/main.09f20e1d.js",
+    "main.js": "/static/js/main.50db3b44.js",
     "static/media/kristian.jpg": "/static/media/kristian.3a06e31efdf18b1b31f7.jpg",
     "static/media/html.png": "/static/media/html.90b058b194ed26cf474a.png",
     "static/media/frontline.jpg": "/static/media/frontline.bea00a630c4fcae9190a.jpg",
     "static/media/chamytwins.jpg": "/static/media/chamytwins.0b258ccf273144b5fe92.jpg",
     "static/media/photoshop.png": "/static/media/photoshop.d97a79e41d82f4c2c5ff.png",
     "static/media/NodeJs.png": "/static/media/NodeJs.3793695c5957741abbcc.png",
-    "static/media/clinique.JPG": "/static/media/clinique.7f6f4feb9327b01022fe.JPG",
+    "static/media/clinique.JPG": "/static/media/clinique.65b5893a58254c8270c7.JPG",
     "static/media/css.png": "/static/media/css.92d6780865339d1cb3c3.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.a7c8d4ac3f07e031e310.png",
     "static/media/cuttingedge.jpg": "/static/media/cuttingedge.9a27692d5f92d5682576.jpg",
@@ -18,10 +18,10 @@
     "static/media/Figma.png": "/static/media/Figma.46400ab8543f71a3650b.png",
     "index.html": "/index.html",
     "main.2ed9311d.css.map": "/static/css/main.2ed9311d.css.map",
-    "main.09f20e1d.js.map": "/static/js/main.09f20e1d.js.map"
+    "main.50db3b44.js.map": "/static/js/main.50db3b44.js.map"
   },
   "entrypoints": [
     "static/css/main.2ed9311d.css",
-    "static/js/main.09f20e1d.js"
+    "static/js/main.50db3b44.js"
   ]
 }
